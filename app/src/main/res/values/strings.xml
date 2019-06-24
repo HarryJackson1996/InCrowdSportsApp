@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InCrowdSportKotlinApp</string>
+
+    <string name="commentary">Live Commentary</string>
+    <string name="title_name">SPORTS</string>
+
+    <string name="home_team">Home Team</string>
+    <string name="home_team_score">0</string>
+    <string name="away_team">Away Team</string>
+    <string name="away_team_score">0</string>
+
+</resources>
